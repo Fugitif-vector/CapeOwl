@@ -42,7 +42,7 @@ U have to provide all information u have regarding ur target (name, surname, bir
 Give the informations one by one. When you have no more information to add, enter the sign /<br>
 Take example on the picture below:
 
-![img1]()
+![img1](https://github.com/Fugitif-vector/CapeOwl/blob/23f92e1c46e9c700fd760f6d97dc4853fd7be519/img1.png)
 
 <h5><u>2- Start a brute force attack</u></h5>
 <p align="center">
@@ -52,17 +52,26 @@ If u used Cape-Owl to create the word list, just enter the name of the file; els
 
 Take example on the picture below:
 
-![img2]()
+![img2](https://github.com/Fugitif-vector/CapeOwl/blob/23f92e1c46e9c700fd760f6d97dc4853fd7be519/img2.png)
 
 <h5><u>3- random attack</u></h5>
 <p align="center">
 </p>
 This option give u the opportunity to test a specified password on random accounts as described in the below picture:
 
-![img2]()
+![img3](https://github.com/Fugitif-vector/CapeOwl/blob/23f92e1c46e9c700fd760f6d97dc4853fd7be519/img3.png)
 
 ### [+] Note !!!
 When a brute force attack is performed on an account, access to that account is disabled after a certain number of incorrect attempts. It's a security measure that you can't do anything about. 
 
 Once account access is disabled, Cape-Owl will let you know and stop the process. 
 You can relaunch it later, but before, remember to delete the words already tested in the word list.
+
+### [+] Contact me
+
+Facebook : 
+<br>
+[Kali Ubuntu](https://www.facebook.com/profile.php?id=100082908991551)
+<br>
+<br>
+E-mail : <br>teamfugitifdev.h4ck@gmail.com
