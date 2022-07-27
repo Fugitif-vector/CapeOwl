@@ -1,6 +1,6 @@
 <h2 align="center"><u>Cape-Owl</u></h2>
 
-<h4 align="center"> Hack facebook account by brute force attack ! </h4>
+<h4 align="center"> Hack facebook account with brute force attack ! </h4>
 
 <p align="center">
 <br>
