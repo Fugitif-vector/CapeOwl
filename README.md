@@ -62,7 +62,7 @@ This option give u the opportunity to test a specified password on random accoun
 ![img3](https://github.com/Fugitif-vector/CapeOwl/blob/23f92e1c46e9c700fd760f6d97dc4853fd7be519/img3.png)
 
 ### [+] Note !!!
-When a brute force attack is performed on an account, access to that account is disabled after a certain number of incorrect attempts. It's a security measure that you can't do anything about. 
+When a brute force attack is performed on an account, access to that account is temporarily disabled after a certain number of incorrect attempts. It's a security measure that you can't do anything about. 
 
 Once account access is disabled, Cape-Owl will let you know and stop the process. 
 You can relaunch it later, but before, remember to delete the words already tested in the word list.
